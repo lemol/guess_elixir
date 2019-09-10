@@ -2,6 +2,13 @@
 
 **TODO: Add description**
 
+## Run
+
+```bash
+mix escript.build
+./guess
+```
+
 ## Installation
 
 If [available in Hex](https://hex.pm/docs/publish), the package can be installed

@@ -22,6 +22,7 @@ erl_crash.dump
 # Ignore package tarball (built via "mix hex.build").
 guess-*.tar
 /guess
+/guess.exe
 
 /priv/plts/*.plt
 /priv/plts/*.plt.hash
